@@ -10,5 +10,7 @@
         WindowStartupLocation="CenterScreen"
         CanResize="False"
         WindowState="Maximized">
-    <TextBlock Text="Hello World!"/>
+    <TextBlock Text="Hello World!"
+    FontSize="32"
+    />
 </Window>
