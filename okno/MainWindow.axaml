@@ -12,5 +12,6 @@
         WindowState="Maximized">
     <TextBlock Text="Hello World!"
     FontSize="32"
+    FontWeight="Bold"
     />
 </Window>
