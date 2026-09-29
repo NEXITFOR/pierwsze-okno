@@ -13,5 +13,6 @@
     <TextBlock Text="Hello World!"
     FontSize="32"
     FontWeight="Bold"
+    FontStyle="Italic"
     />
 </Window>
